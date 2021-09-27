@@ -1,0 +1,16 @@
+C:\Users\jwren\source\Dojo_Stuff\C#\Phone\obj\Debug\net5.0\Phone.csproj.AssemblyReference.cache
+C:\Users\jwren\source\Dojo_Stuff\C#\Phone\obj\Debug\net5.0\Phone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jwren\source\Dojo_Stuff\C#\Phone\obj\Debug\net5.0\Phone.AssemblyInfoInputs.cache
+C:\Users\jwren\source\Dojo_Stuff\C#\Phone\obj\Debug\net5.0\Phone.AssemblyInfo.cs
+C:\Users\jwren\source\Dojo_Stuff\C#\Phone\obj\Debug\net5.0\Phone.csproj.CoreCompileInputs.cache
+C:\Users\jwren\source\Dojo_Stuff\C#\Phone\bin\Debug\net5.0\Phone.exe
+C:\Users\jwren\source\Dojo_Stuff\C#\Phone\bin\Debug\net5.0\Phone.deps.json
+C:\Users\jwren\source\Dojo_Stuff\C#\Phone\bin\Debug\net5.0\Phone.runtimeconfig.json
+C:\Users\jwren\source\Dojo_Stuff\C#\Phone\bin\Debug\net5.0\Phone.runtimeconfig.dev.json
+C:\Users\jwren\source\Dojo_Stuff\C#\Phone\bin\Debug\net5.0\Phone.dll
+C:\Users\jwren\source\Dojo_Stuff\C#\Phone\bin\Debug\net5.0\ref\Phone.dll
+C:\Users\jwren\source\Dojo_Stuff\C#\Phone\bin\Debug\net5.0\Phone.pdb
+C:\Users\jwren\source\Dojo_Stuff\C#\Phone\obj\Debug\net5.0\Phone.dll
+C:\Users\jwren\source\Dojo_Stuff\C#\Phone\obj\Debug\net5.0\ref\Phone.dll
+C:\Users\jwren\source\Dojo_Stuff\C#\Phone\obj\Debug\net5.0\Phone.pdb
+C:\Users\jwren\source\Dojo_Stuff\C#\Phone\obj\Debug\net5.0\Phone.genruntimeconfig.cache
